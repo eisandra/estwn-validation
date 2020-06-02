@@ -17,6 +17,7 @@ python wn_w2v_comparison.py mudelid/lemmas.sg.s200.w2v.bin --targetword_files wn
 ### Katse 2
 
 python wn_w2v_comparison.py mudelid/lemmas.sg.s200.w2v.bin --targetword_files wn_olemas_sagedad.txt --spellcheck_files estwn-et-2.3.2_lemmad.txt wn_puuduvad_sagedad.txt --ignored_relations "taksonoomilised õed" --hyper_max 2
+
 Katse 2.2 puhul --hyper_max 1
 
 ### Katse 3
