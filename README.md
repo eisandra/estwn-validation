@@ -1,4 +1,4 @@
-# estwn-validation
+# EstWNi kontrollimise meetodid
 
 Programmide jooksutamiseks on vaja teeke Gensim ja EstNLTK 1.4.
 Kõik programmid kasutavad meetode moodulist closest_relations. Wn_w2v_comparison_3 ja wn_w2v_comparison_4 kasutavad ka meetodeid moodulist wn_w2v_comparison.
